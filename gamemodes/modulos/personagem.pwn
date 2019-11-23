@@ -138,7 +138,7 @@ public perso_OnDialogResponse(playerid, dialogid, response, listitem, inputtext[
 			{
 				SendClientMessage(playerid, -1, "ERRO: Digite uma idade entre 18 e 80 anos.");
                 TogglePlayerSpectating(playerid, 1);
-                ShowPlayerDialog(playerid, Dialog_Idade, DIALOG_STYLE_INPUT, "Documentação", "Digite sua idade:", "Confirmar", "Cancelar");
+                ShowPlayerDialog(playerid, Dialog_Idade, DIALOG_STYLE_INPUT, "Documentação", "Digite a idade de seu personagem:", "Confirmar", "Cancelar");
 			}
 			else
 			{
@@ -152,7 +152,7 @@ public perso_OnDialogResponse(playerid, dialogid, response, listitem, inputtext[
 				{
 					TogglePlayerSpectating(playerid, 1);
 					Player[playerid][pIdade] = strval(inputtext);
-					ShowPlayerDialog(playerid, Dialog_Sexo, DIALOG_STYLE_LIST, "Escolha o sexo do seu personagem:", "Masculino\nFeminino", "Confirmar", "Cancelar");
+					ShowPlayerDialog(playerid, Dialog_Sexo, DIALOG_STYLE_LIST, "Defina o sexo do seu personagem:", "Masculino\nFeminino", "Confirmar", "Cancelar");
 				}
 			}
 		}
@@ -168,7 +168,7 @@ public perso_OnDialogResponse(playerid, dialogid, response, listitem, inputtext[
 				case 1: Player[playerid][pSexo] = 2; //MULHER
 			}
 
-			ShowPlayerDialog(playerid, Dialog_Origem, DIALOG_STYLE_INPUT, "Documentação", "Digite a origem de seu pernsoagem:", "Confirmar", "Cancelar");
+			ShowPlayerDialog(playerid, Dialog_Origem, DIALOG_STYLE_INPUT, "Documentação", "Digite a cidade de origem seu pernsoagem:", "Confirmar", "Cancelar");
 			TogglePlayerSpectating(playerid, 1);
 		} 
 

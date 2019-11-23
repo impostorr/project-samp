@@ -115,7 +115,7 @@ public register_OnDialogResponse(playerid, dialogid, response, listitem, inputte
 
             if(strlen(inputtext) < 4 || strlen(inputtext) > 24) 
             {
-                SendClientMessage(playerid, 0xFF0000AA, "[SERVER] Escolha uma senha entre 4 a 24 caracteres.");
+                SendClientMessage(playerid, 0xFF0000AA, "SERVER: Escolha uma senha entre 4 a 24 caracteres.");
                 TogglePlayerSpectating(playerid, 1);
 
                 ShowPlayerDialog(playerid, Dialog_Registro, DIALOG_STYLE_INPUT, "Registro", "Digite uma senha para se registrar em nosso servidor", "Registrar", "Sair"); // Mostra o dialog para ele tentar de novo.
@@ -125,13 +125,13 @@ public register_OnDialogResponse(playerid, dialogid, response, listitem, inputte
             else 
             { 
                 TogglePlayerSpectating(playerid, 1); 
-                ShowPlayerDialog(playerid, Dialog_Idade, DIALOG_STYLE_INPUT, "Documentação", "Digite sua idade:", "Confirmar", "Cancelar");
+                ShowPlayerDialog(playerid, Dialog_Idade, DIALOG_STYLE_INPUT, "Documentação", "Digite a idade de seu personagem:", "Confirmar", "Cancelar");
                 mysql_format(ConexaoSQL, Query, sizeof(Query), "INSERT INTO `jogadores`(`pNome`,`pSenha`) VALUES ('%e', '%e')", GetPlayerNameEx(playerid), inputtext);
                 mysql_tquery(ConexaoSQL, Query, "InserirDadosSQL", "i", playerid);
             }
             if(Player[playerid][pTentativasRegistro] == 3) 
             {
-                    SendClientMessage(playerid, 0xFF0000AA, "[SERVER] Limite de tentativas de registro excedida.");
+                    SendClientMessage(playerid, 0xFF0000AA, "SERVER: Limite de tentativas de registro excedida.");
                     Player[playerid][pTentativasRegistro] = 0; 
                     SetTimerEx("KickPlayerinTime", 200, false, "i", playerid); 
 
@@ -148,20 +148,20 @@ public register_OnDialogResponse(playerid, dialogid, response, listitem, inputte
                 mysql_format(ConexaoSQL, Query, sizeof(Query), "SELECT * FROM jogadores WHERE pNome='%e'", GetPlayerNameEx(playerid)); 
                 mysql_tquery(ConexaoSQL, Query, "CarregarContaSQL", "i", playerid); 
 
-                SendClientMessage(playerid, 0x80FF00AA, "[Server] Logado com sucesso.");
+                SendClientMessage(playerid, 0x80FF00AA, "SERVER: Logado com sucesso.");
                 TextDrawHideForPlayer(playerid, textdraw_0);
                 player_login = 1; 
             } 
             else 
             { 
                 TogglePlayerSpectating(playerid, 1);
-                SendClientMessage(playerid, 0xFF0000AA, "[SERVER] Senha errada, tente novamente."); 
+                SendClientMessage(playerid, 0xFF0000AA, "SERVER: Senha errada, tente novamente."); 
                 Player[playerid][pTentativasLogin]++; 
                 ShowPlayerDialog(playerid, Dialog_Login, DIALOG_STYLE_PASSWORD, "Login", "Digite sua senha para entrar em nosso servidor.", "Confirmar", "Sair"); // Mostra a dialog pra ele tentar dnvo
             }
             if(Player[playerid][pTentativasLogin] == 3) 
             {
-                SendClientMessage(playerid, 0xFF0000AA, "[SERVER] Limite de tentativas de login excedida."); 
+                SendClientMessage(playerid, 0xFF0000AA, "SERVER: Limite de tentativas de login excedida."); 
                 Player[playerid][pTentativasLogin] = 0; 
                 SetTimerEx("KickPlayerinTime", 200, false, "i", playerid); 
             }
@@ -279,6 +279,7 @@ stock ZerarDadosSQL(playerid)
     Player[playerid][pAdmin] = 0;
     Player[playerid][pIdade] = 0;
     Player[playerid][pSexo] = 0;
+    Player[playerid][pOrigem] = 0;
     Player[playerid][pLogado] = false;
     Player[playerid][pTentativasLogin] = 0;
     Player[playerid][pTentativasRegistro] = 0;

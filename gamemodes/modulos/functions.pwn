@@ -3,7 +3,7 @@ stock IsLetter(letter[])
 {
     for(new i, j = strlen(letter); i < j; i++)
     {
-        if(!('A' <= letter[i] <= 'Z' || 'a' <= letter[i] <= 'z'))
+        if(!('A' <= letter[i] <= 'Z' || 'a' <= letter[i] <= 'z' || ' ' == letter[i]))
             return true; 
     }
     return false;

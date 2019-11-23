@@ -1,2 +1,0 @@
-[20:20:57] [plugins/mysql] error #1054 while executing query "UPDATE `jogadores` SET pOrigem = 'Holy' WHERE `Nome`='electro_cornoeeewww'": Unknown column 'Nome' in 'where clause'
-[20:23:00] [plugins/mysql] error #1064 while executing query "UPDATE `jogadores` WHERE `Nome`='eun_sei' SET pOrigem = 'porraaa'": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `Nome`='eun_sei' SET pOrigem = 'porraaa'' at line 1
