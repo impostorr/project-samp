@@ -3282,3 +3282,270 @@ Console input: gmx
 [20:26:33] [MYSQL] Jogador eun_seiseu registrado como ID 86
 [20:26:43] [MYSQL] Dados do Jogador eun_seiseu ID 86 salvo com sucesso
 [20:26:43] [part] eun_seiseu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[01:31:47] filterscripts = ""  (string)
+[01:31:47] 
+[01:31:47] Server Plugins
+[01:31:47] --------------
+[01:31:47]  Loading plugin: mysql
+[01:31:48]  >> plugin.mysql: R41-4 successfully loaded.
+[01:31:48]   Loaded.
+[01:31:48]  Loading plugin: sscanf
+[01:31:48] 
+
+[01:31:48]  ===============================
+
+[01:31:48]       sscanf plugin loaded.     
+
+[01:31:48]          Version:  2.8.3        
+
+[01:31:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:31:48]  ===============================
+
+[01:31:48]   Loaded.
+[01:31:48]  Loading plugin: streamer
+[01:31:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:31:48]   Loaded.
+[01:31:48]  Loaded 3 plugins.
+
+[01:31:48] [artwork:crc] object.dff CRC = 0xDCFCC14C
+[01:31:48] [artwork:crc] logo.txd CRC = 0x22148262
+[01:31:48] 
+[01:31:48] Filterscripts
+[01:31:48] ---------------
+[01:31:48]   Loaded 0 filterscripts.
+
+[01:31:48] [MySQL] Sucesso ao conectar com o banco de dados.
+[01:31:48] 
+-------gamemode by: impostorr--------
+
+[01:31:48] Number of vehicle models: 0
+[01:32:11] [connection] incoming connection: 25.1.36.254:59781 id: 0
+[01:32:11] [join] Mark_Gordon has joined the server (0:25.1.36.254)
+[01:32:16] [MYSQL] Jogador Mark_Gordon registrado como ID 87
+[01:33:40] [MYSQL] Dados do Jogador Mark_Gordon ID 87 salvo com sucesso
+[01:33:40] [part] Mark_Gordon has left the server (0:1)
+Console input: gmx
+[01:36:50] [connection] incoming connection: 25.1.36.254:55257 id: 0
+[01:36:50] [join] Mark_Gordon22 has joined the server (0:25.1.36.254)
+[01:36:51] [MySQL] Sucesso ao conectar com o banco de dados.
+[01:36:51] 
+-------gamemode by: impostorr--------
+
+[01:36:51] Number of vehicle models: 0
+[01:36:51] [part] Mark_Gordon22 has left the server (0:2)
+[01:37:12] [connection] incoming connection: 25.1.36.254:55274 id: 0
+[01:37:12] [join] Mark_Gordonzada has joined the server (0:25.1.36.254)
+[01:37:15] [MYSQL] Jogador Mark_Gordonzada registrado como ID 88
+[01:37:40] [MYSQL] Dados do Jogador Mark_Gordonzada ID 88 salvo com sucesso
+[01:37:40] [part] Mark_Gordonzada has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[01:47:07] filterscripts = ""  (string)
+[01:47:07] 
+[01:47:07] Server Plugins
+[01:47:07] --------------
+[01:47:07]  Loading plugin: mysql
+[01:47:07]  >> plugin.mysql: R41-4 successfully loaded.
+[01:47:07]   Loaded.
+[01:47:07]  Loading plugin: sscanf
+[01:47:07] 
+
+[01:47:07]  ===============================
+
+[01:47:07]       sscanf plugin loaded.     
+
+[01:47:07]          Version:  2.8.3        
+
+[01:47:07]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:47:07]  ===============================
+
+[01:47:07]   Loaded.
+[01:47:07]  Loading plugin: streamer
+[01:47:07] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:47:07]   Loaded.
+[01:47:07]  Loaded 3 plugins.
+
+[01:47:07] [artwork:crc] object.dff CRC = 0xDCFCC14C
+[01:47:07] [artwork:crc] logo.txd CRC = 0x22148262
+[01:47:07] 
+[01:47:07] Filterscripts
+[01:47:07] ---------------
+[01:47:07]   Loaded 0 filterscripts.
+
+[01:47:07] [MySQL] Sucesso ao conectar com o banco de dados.
+[01:47:07] 
+-------gamemode by: impostorr--------
+
+[01:47:07] Number of vehicle models: 0
+[01:47:17] [connection] incoming connection: 25.1.36.254:57620 id: 0
+[01:47:17] [join] Mark_Gordonzada has joined the server (0:25.1.36.254)
+[01:47:30] [MYSQL] Dados do Jogador Mark_Gordonzada ID 88 salvo com sucesso
+[01:47:30] [part] Mark_Gordonzada has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[12:23:47] filterscripts = ""  (string)
+[12:23:47] 
+[12:23:47] Server Plugins
+[12:23:47] --------------
+[12:23:47]  Loading plugin: mysql
+[12:23:47]  >> plugin.mysql: R41-4 successfully loaded.
+[12:23:47]   Loaded.
+[12:23:47]  Loading plugin: sscanf
+[12:23:47] 
+
+[12:23:47]  ===============================
+
+[12:23:47]       sscanf plugin loaded.     
+
+[12:23:47]          Version:  2.8.3        
+
+[12:23:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:23:47]  ===============================
+
+[12:23:47]   Loaded.
+[12:23:47]  Loading plugin: streamer
+[12:23:47] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:23:47]   Loaded.
+[12:23:47]  Loaded 3 plugins.
+
+[12:23:48] [artwork:crc] object.dff CRC = 0xDCFCC14C
+[12:23:48] [artwork:crc] logo.txd CRC = 0x22148262
+[12:23:48] 
+[12:23:48] Filterscripts
+[12:23:48] ---------------
+[12:23:48]   Loaded 0 filterscripts.
+
+[12:23:48] [MySQL] Sucesso ao conectar com o banco de dados.
+[12:23:48] 
+-------gamemode by: impostorr--------
+
+[12:23:48] Number of vehicle models: 0
+[12:24:12] [connection] incoming connection: 25.1.36.254:49682 id: 0
+[12:24:12] [join] Mark_Gordonzadad has joined the server (0:25.1.36.254)
+[12:24:15] [MYSQL] Jogador Mark_Gordonzadad registrado como ID 89
+Console input: gmx
+[12:25:39] [MYSQL] Dados do Jogador Mark_Gordonzadad ID 89 salvo com sucesso
+[12:25:51] [MySQL] Sucesso ao conectar com o banco de dados.
+[12:25:51] 
+-------gamemode by: impostorr--------
+
+[12:25:51] Number of vehicle models: 0
+[12:25:54] [part] Mark_Gordonzadad has left the server (0:0)
+[12:25:54] [connection] incoming connection: 25.1.36.254:49285 id: 0
+[12:25:54] [join] Mark_Gordonzadadd has joined the server (0:25.1.36.254)
+[12:25:57] [MYSQL] Jogador Mark_Gordonzadadd registrado como ID 90
+[12:30:06] [MYSQL] Dados do Jogador Mark_Gordonzadadd ID 90 salvo com sucesso
+[12:30:06] [part] Mark_Gordonzadadd has left the server (0:1)
+Console input: gmx
+[12:30:54] [MySQL] Sucesso ao conectar com o banco de dados.
+[12:30:54] 
+-------gamemode by: impostorr--------
+
+[12:30:54] Number of vehicle models: 0
+[12:30:56] [connection] incoming connection: 25.1.36.254:63816 id: 0
+[12:30:56] [join] Mark_Gozo has joined the server (0:25.1.36.254)
+[12:31:04] [MYSQL] Jogador Mark_Gozo registrado como ID 0
+[12:33:32] [MYSQL] Dados do Jogador Mark_Gozo ID 0 salvo com sucesso
+[12:33:32] [part] Mark_Gozo has left the server (0:1)
+Console input: gmx
+[12:33:47] [MySQL] Sucesso ao conectar com o banco de dados.
+[12:33:47] 
+-------gamemode by: impostorr--------
+
+[12:33:47] Number of vehicle models: 0
+[12:33:50] [connection] incoming connection: 25.1.36.254:62214 id: 0
+[12:33:50] [join] Mark_Gozoss has joined the server (0:25.1.36.254)
+[12:34:34] [part] Mark_Gozoss has left the server (0:1)
+Console input: gmx
+[12:38:53] [connection] incoming connection: 25.1.36.254:54057 id: 0
+[12:38:53] [join] Mark_Gozossss has joined the server (0:25.1.36.254)
+[12:38:54] [MySQL] Sucesso ao conectar com o banco de dados.
+[12:38:54] 
+-------gamemode by: impostorr--------
+
+[12:38:54] Number of vehicle models: 0
+[12:38:56] [MYSQL] Jogador Mark_Gozossss registrado como ID 91
+[12:39:00] [MYSQL] Dados do Jogador Mark_Gozossss ID 91 salvo com sucesso
+[12:39:15] [MYSQL] Dados do Jogador Mark_Gozossss ID 91 salvo com sucesso
+[12:39:15] [part] Mark_Gozossss has left the server (0:1)
+Console input: gmx
+[12:40:02] [MySQL] Sucesso ao conectar com o banco de dados.
+[12:40:02] 
+-------gamemode by: impostorr--------
+
+[12:40:02] Number of vehicle models: 0
+Console input: gmx
+[12:40:14] [connection] incoming connection: 25.1.36.254:55597 id: 0
+[12:40:14] [join] Mark_Godole has joined the server (0:25.1.36.254)
+[12:40:16] [MySQL] Sucesso ao conectar com o banco de dados.
+[12:40:16] 
+-------gamemode by: impostorr--------
+
+[12:40:16] Number of vehicle models: 0
+[12:40:18] [MYSQL] Jogador Mark_Godole registrado como ID 92
+[12:40:23] [MYSQL] Dados do Jogador Mark_Godole ID 92 salvo com sucesso
+[12:40:37] [MYSQL] Dados do Jogador Mark_Godole ID 92 salvo com sucesso
+[12:40:37] [part] Mark_Godole has left the server (0:1)
+Console input: gmx
+[12:42:42] [MySQL] Sucesso ao conectar com o banco de dados.
+[12:42:42] 
+-------gamemode by: impostorr--------
+
+[12:42:42] Number of vehicle models: 0
+[12:42:42] [connection] incoming connection: 25.1.36.254:58420 id: 0
+[12:42:42] [join] Mark_Godolees has joined the server (0:25.1.36.254)
+[12:42:44] [MYSQL] Jogador Mark_Godolees registrado como ID 93
+[12:42:48] [MYSQL] Dados do Jogador Mark_Godolees ID 93 salvo com sucesso
+[12:42:55] [MYSQL] Dados do Jogador Mark_Godolees ID 93 salvo com sucesso
+[12:42:55] [part] Mark_Godolees has left the server (0:1)
+Console input: gmx
+[12:47:38] [connection] incoming connection: 25.1.36.254:55304 id: 0
+[12:47:38] [join] Mark_Godoleesee has joined the server (0:25.1.36.254)
+[12:47:39] [MySQL] Sucesso ao conectar com o banco de dados.
+[12:47:39] 
+-------gamemode by: impostorr--------
+
+[12:47:39] Number of vehicle models: 0
+[12:48:24] [MYSQL] Jogador Mark_Godoleesee registrado como ID 94
+[12:48:29] [MYSQL] Dados do Jogador Mark_Godoleesee ID 94 salvo com sucesso
+[12:49:06] [MYSQL] Dados do Jogador Mark_Godoleesee ID 94 salvo com sucesso
+[12:49:06] [part] Mark_Godoleesee has left the server (0:1)
+[12:49:43] [connection] incoming connection: 25.1.36.254:65025 id: 0
+[12:49:43] [join] Mark_Godoleesee has joined the server (0:25.1.36.254)
+[12:49:59] [MYSQL] Dados do Jogador Mark_Godoleesee ID 94 salvo com sucesso
+[12:49:59] [part] Mark_Godoleesee has left the server (0:1)

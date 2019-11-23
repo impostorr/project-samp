@@ -152,6 +152,9 @@ public perso_OnDialogResponse(playerid, dialogid, response, listitem, inputtext[
 				{
 					TogglePlayerSpectating(playerid, 1);
 					Player[playerid][pIdade] = strval(inputtext);
+					new str[24];
+					format(str, sizeof(str), "%d", Player[playerid][pIdade]);
+					SendClientMessage(playerid, -1, str);
 					ShowPlayerDialog(playerid, Dialog_Sexo, DIALOG_STYLE_LIST, "Defina o sexo do seu personagem:", "Masculino\nFeminino", "Confirmar", "Cancelar");
 				}
 			}
@@ -175,6 +178,7 @@ public perso_OnDialogResponse(playerid, dialogid, response, listitem, inputtext[
 		case Dialog_Origem:
 		{
 			new Query[125];
+			new str[24];
 
 			if(IsLetter(inputtext))
 			{
@@ -192,8 +196,8 @@ public perso_OnDialogResponse(playerid, dialogid, response, listitem, inputtext[
 				}
 				else
 				{
-					mysql_format(ConexaoSQL, Query, sizeof(Query), "UPDATE `jogadores` SET pOrigem = '%s' WHERE `pNome`='%s'", inputtext, GetPlayerNameEx(playerid));
-	   				mysql_query(ConexaoSQL,Query); 
+					//mysql_format(ConexaoSQL, Query, sizeof(Query), "UPDATE `jogadores` SET pOrigem = '%s' WHERE `pNome`='%s'", inputtext, GetPlayerNameEx(playerid));
+	   				//mysql_query(ConexaoSQL,Query); 
 
 					TogglePlayerSpectating(playerid, 1);
 					
@@ -208,9 +212,11 @@ public perso_OnDialogResponse(playerid, dialogid, response, listitem, inputtext[
 					PlayerTextDrawShow(playerid, perso_7[playerid]);
 					SelectTextDraw(playerid, 0xFF0000FF);
 
+					format(str, sizeof(str), "%s", inputtext);
+					Player[playerid][pOrigem] = str;
+
 					SalvarContasSQL(playerid);
-					mysql_format(ConexaoSQL, Query, sizeof(Query), "SELECT * FROM jogadores WHERE pNome='%e'", GetPlayerNameEx(playerid)); 
-                	mysql_tquery(ConexaoSQL, Query, "CarregarContaSQL", "i", playerid); 
+					mysql_tquery(ConexaoSQL, Query, "InserirDadosSQL", "i", playerid);
 				}
 			}
 		}
@@ -259,6 +265,9 @@ public perso_OnPlayerClickTxt(playerid, PlayerText:playertextid)
 	return 1;
 }
 
+
+//----------------------REMOVER COMANDOS------------------------ 
+
 CMD:test(playerid)
 {
 	new str[24];
@@ -266,3 +275,13 @@ CMD:test(playerid)
 	SendClientMessage(playerid, -1, str);
 	return 1;
 }
+
+CMD:test2(playerid)
+{
+	new str[24];
+	format(str, sizeof(str), "%d", Player[playerid][pIdade]);
+	SendClientMessage(playerid, -1, str);
+	return 1;
+}
+
+//--------------------------------------------------------------

@@ -181,7 +181,7 @@ public InserirDadosSQL(playerid)
     mysql_format(ConexaoSQL, Query, sizeof(Query), "SELECT * FROM jogadores WHERE pID='%i'", Player[playerid][pID]);
     mysql_query(ConexaoSQL,Query); 
 
-    //CarregarContaSQL(playerid); 
+    CarregarContaSQL(playerid); 
 	return 1;
 }
 
@@ -236,6 +236,7 @@ public SalvarContasSQL(playerid)
     `pAdmin`='%i', \
     `pIdade`='%i', \
     `pSexo`='%i', \
+    `pOrigem`='%s', \
     `pPosX`='%f', \
     `pPosY`='%f', \
     `pPosZ`='%f', \
@@ -245,6 +246,7 @@ public SalvarContasSQL(playerid)
                                     Player[playerid][pAdmin],
                                     Player[playerid][pIdade],
                                     Player[playerid][pSexo],
+                                    Player[playerid][pOrigem],
                                     Player[playerid][pPosX],
                                     Player[playerid][pPosY],
                                     Player[playerid][pPosZ],
