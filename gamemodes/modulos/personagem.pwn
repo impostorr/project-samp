@@ -196,8 +196,6 @@ public perso_OnDialogResponse(playerid, dialogid, response, listitem, inputtext[
 				}
 				else
 				{
-					//mysql_format(ConexaoSQL, Query, sizeof(Query), "UPDATE `jogadores` SET pOrigem = '%s' WHERE `pNome`='%s'", inputtext, GetPlayerNameEx(playerid));
-	   				//mysql_query(ConexaoSQL,Query); 
 
 					TogglePlayerSpectating(playerid, 1);
 					

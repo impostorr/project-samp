@@ -29,3 +29,46 @@ stock HaveUnder(input[])
 	}
 	return false;
 }
+
+stock RemoveUnderScore(playerid)
+{
+    new name[MAX_PLAYER_NAME];
+    GetPlayerName(playerid,name,sizeof(name));
+    for(new i = 0; i < MAX_PLAYER_NAME; i++)
+    {
+        if(name[i] == '_') name[i] = ' ';
+    }
+    return name;
+}
+
+stock GetVehicleSpeed(vehicleid)
+{
+        new Float:xPos[3];
+        GetVehicleVelocity(vehicleid, xPos[0], xPos[1], xPos[2]);
+        return floatround(floatsqroot(xPos[0] * xPos[0] + xPos[1] * xPos[1] + xPos[2] * xPos[2]) * 180.00);
+}
+
+stock ShowPlayerVelocimetro(playerid)
+{
+	if(PlayerVelocimetro[playerid]) {
+		return 0;
+	}
+
+	PlayerVelocimetro[playerid] = true;
+	PlayerTextDrawShow(playerid, speed_0[playerid]);
+    PlayerVelocimetroTimer[playerid] = SetTimerEx("UpdatePlayerVelocimetro", 50, true, "i", playerid);
+	return 1;
+}
+
+stock HidePlayerVelocimetro(playerid)
+{
+	if(!PlayerVelocimetro[playerid]) {
+		return 0;
+	}
+
+	PlayerVelocimetro[playerid] = false;
+	PlayerTextDrawHide(playerid, speed_0[playerid]);
+    KillTimer(PlayerVelocimetroTimer[playerid]);
+	return 1;
+}
+

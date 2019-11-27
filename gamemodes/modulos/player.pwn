@@ -41,3 +41,11 @@ new PlayerText:perso_7[MAX_PLAYERS];
 new next_skin = 1;
 
 //-----------------------------------
+
+//---------VELOCIMETRO---------------
+
+new PlayerText:speed_0[MAX_PLAYERS];
+new PlayerVelocimetroTimer[MAX_PLAYERS];
+new bool:PlayerVelocimetro[MAX_PLAYERS];
+
+//-----------------------------------

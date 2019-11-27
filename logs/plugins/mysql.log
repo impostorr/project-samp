@@ -1,0 +1,81 @@
+[16:45:50] [WARNING] mysql_connect: no password specified
+[16:46:28] [ERROR] error #1065 while executing query "": Query was empty
+[19:22:53] [WARNING] mysql_connect: no password specified
+[19:24:47] [WARNING] mysql_connect: no password specified
+[19:24:47] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[19:34:13] [WARNING] mysql_connect: no password specified
+[19:34:13] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[19:36:26] [WARNING] mysql_connect: no password specified
+[19:36:26] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[19:37:23] [WARNING] mysql_connect: no password specified
+[19:37:23] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[00:28:23] [WARNING] mysql_connect: no password specified
+[00:30:22] [WARNING] mysql_connect: no password specified
+[00:30:22] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[00:33:46] [WARNING] mysql_connect: no password specified
+[00:33:46] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[00:45:33] [WARNING] mysql_connect: no password specified
+[00:45:33] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[00:45:54] [WARNING] mysql_connect: no password specified
+[00:45:54] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[00:48:03] [WARNING] mysql_connect: no password specified
+[00:48:03] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[00:52:12] [WARNING] mysql_connect: no password specified
+[00:54:20] [WARNING] mysql_connect: no password specified
+[00:54:20] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[00:57:28] [WARNING] mysql_connect: no password specified
+[00:57:28] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[01:03:40] [WARNING] mysql_connect: no password specified
+[01:03:40] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[01:04:57] [WARNING] mysql_connect: no password specified
+[01:04:57] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[01:06:21] [WARNING] mysql_connect: no password specified
+[01:06:21] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[01:07:51] [WARNING] mysql_connect: no password specified
+[01:07:51] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[01:10:04] [WARNING] mysql_connect: no password specified
+[01:10:04] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[01:10:57] [WARNING] mysql_connect: no password specified
+[01:10:57] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[01:11:59] [WARNING] mysql_connect: no password specified
+[01:11:59] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[01:19:43] [WARNING] mysql_connect: no password specified
+[01:19:43] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[01:21:34] [WARNING] mysql_connect: no password specified
+[01:21:34] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[01:22:55] [WARNING] mysql_connect: no password specified
+[01:22:55] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[01:24:31] [WARNING] mysql_connect: no password specified
+[01:24:31] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[01:25:10] [WARNING] mysql_connect: no password specified
+[01:25:10] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[01:27:41] [WARNING] mysql_connect: no password specified
+[01:27:41] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[01:28:12] [WARNING] mysql_connect: no password specified
+[01:28:12] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[13:14:45] [WARNING] mysql_connect: no password specified
+[13:24:59] [WARNING] mysql_connect: no password specified
+[13:24:59] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[13:30:12] [WARNING] mysql_connect: no password specified
+[13:30:12] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[13:56:03] [WARNING] mysql_connect: no password specified
+[13:56:03] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[13:57:40] [WARNING] mysql_connect: no password specified
+[13:57:40] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[14:00:33] [WARNING] mysql_connect: no password specified
+[14:00:33] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[14:04:26] [WARNING] mysql_connect: no password specified
+[14:04:26] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[14:09:24] [WARNING] mysql_connect: no password specified
+[14:09:24] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[14:11:27] [WARNING] mysql_connect: no password specified
+[14:11:27] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[14:12:11] [WARNING] mysql_connect: no password specified
+[14:12:11] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[14:24:33] [WARNING] mysql_connect: no password specified
+[14:24:33] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[14:25:40] [WARNING] mysql_connect: no password specified
+[14:25:40] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
+[14:26:55] [WARNING] mysql_connect: no password specified
+[14:32:18] [WARNING] mysql_connect: no password specified
+[14:32:18] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'project'
