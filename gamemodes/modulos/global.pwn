@@ -45,7 +45,17 @@ new next_skin = 1;
 //---------VELOCIMETRO---------------
 
 new PlayerText:speed_0[MAX_PLAYERS];
+new PlayerText:fuel_0[MAX_PLAYERS];
 new PlayerVelocimetroTimer[MAX_PLAYERS];
 new bool:PlayerVelocimetro[MAX_PLAYERS];
 
 //-----------------------------------
+
+//-----------FUEL--------------------
+
+new bool:motor[MAX_VEHICLES];
+new fuelTimer[MAX_VEHICLES];
+new fuelCheck[MAX_PLAYERS];
+
+//-----------------------------------
+

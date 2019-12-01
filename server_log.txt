@@ -4254,3 +4254,740 @@ Console input: gmx
 [14:32:20] [join] Post_Malone has joined the server (0:25.1.36.254)
 [14:34:29] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
 [14:34:29] [part] Post_Malone has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[16:42:43] filterscripts = ""  (string)
+[16:42:43] 
+[16:42:43] Server Plugins
+[16:42:43] --------------
+[16:42:43]  Loading plugin: mysql
+[16:42:43]  >> plugin.mysql: R41-4 successfully loaded.
+[16:42:43]   Loaded.
+[16:42:43]  Loading plugin: sscanf
+[16:42:43] 
+
+[16:42:43]  ===============================
+
+[16:42:43]       sscanf plugin loaded.     
+
+[16:42:43]          Version:  2.8.3        
+
+[16:42:43]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:42:43]  ===============================
+
+[16:42:43]   Loaded.
+[16:42:43]  Loading plugin: streamer
+[16:42:43] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:42:43]   Loaded.
+[16:42:43]  Loaded 3 plugins.
+
+[16:42:43] [artwork:crc] object.dff CRC = 0xDCFCC14C
+[16:42:43] [artwork:crc] logo.txd CRC = 0x22148262
+[16:42:43] 
+[16:42:43] Filterscripts
+[16:42:43] ---------------
+[16:42:43]   Loaded 0 filterscripts.
+
+[16:42:43] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[16:42:43] [MySQL] Sucesso ao conectar com o banco de dados.
+[16:42:43] 
+-------gamemode by: impostorr--------
+
+[16:42:43] Number of vehicle models: 0
+[16:42:55] [connection] incoming connection: 25.1.36.254:56221 id: 0
+[16:42:55] [join] Post_Malone has joined the server (0:25.1.36.254)
+[16:43:26] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[16:43:26] [part] Post_Malone has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[16:44:07] filterscripts = ""  (string)
+[16:44:07] 
+[16:44:07] Server Plugins
+[16:44:07] --------------
+[16:44:07]  Loading plugin: mysql
+[16:44:08]  >> plugin.mysql: R41-4 successfully loaded.
+[16:44:08]   Loaded.
+[16:44:08]  Loading plugin: sscanf
+[16:44:08] 
+
+[16:44:08]  ===============================
+
+[16:44:08]       sscanf plugin loaded.     
+
+[16:44:08]          Version:  2.8.3        
+
+[16:44:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:44:08]  ===============================
+
+[16:44:08]   Loaded.
+[16:44:08]  Loading plugin: streamer
+[16:44:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:44:08]   Loaded.
+[16:44:08]  Loaded 3 plugins.
+
+[16:44:08] [artwork:crc] object.dff CRC = 0xDCFCC14C
+[16:44:08] [artwork:crc] logo.txd CRC = 0x22148262
+[16:44:08] [artwork:crc] object.dff CRC = 0xDCFCC14C
+[16:44:08] [artwork:crc] fuel.txd CRC = 0xF72CC4EE
+[16:44:08] 
+[16:44:08] Filterscripts
+[16:44:08] ---------------
+[16:44:08]   Loaded 0 filterscripts.
+
+[16:44:08] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[16:44:08] [MySQL] Sucesso ao conectar com o banco de dados.
+[16:44:08] 
+-------gamemode by: impostorr--------
+
+[16:44:08] Number of vehicle models: 0
+[16:44:19] [connection] incoming connection: 25.1.36.254:63691 id: 0
+[16:44:19] [join] Post_Malone has joined the server (0:25.1.36.254)
+Console input: gmx
+[18:38:03] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[18:38:03] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[18:38:15] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[18:38:15] [MySQL] Sucesso ao conectar com o banco de dados.
+[18:38:15] 
+-------gamemode by: impostorr--------
+
+[18:38:15] Number of vehicle models: 0
+[18:38:32] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[18:38:32] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[18:51:21] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[18:51:33] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[18:51:33] [MySQL] Sucesso ao conectar com o banco de dados.
+[18:51:33] 
+-------gamemode by: impostorr--------
+
+[18:51:33] Number of vehicle models: 0
+Console input: gmx
+[18:57:15] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[18:57:27] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[18:57:27] [MySQL] Sucesso ao conectar com o banco de dados.
+[18:57:27] 
+-------gamemode by: impostorr--------
+
+[18:57:27] Number of vehicle models: 0
+[18:57:30] [connection] incoming connection: 25.1.36.254:52440 id: 0
+[18:57:30] [join] Post_Malone has joined the server (0:25.1.36.254)
+Console input: gmx
+[18:59:14] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[18:59:14] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[18:59:26] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[18:59:26] [MySQL] Sucesso ao conectar com o banco de dados.
+[18:59:26] 
+-------gamemode by: impostorr--------
+
+[18:59:26] Number of vehicle models: 0
+[18:59:40] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[18:59:40] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[19:01:23] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:01:35] [connection] incoming connection: 25.1.36.254:50260 id: 0
+[19:01:35] [join] Post_Malone has joined the server (0:25.1.36.254)
+[19:01:35] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:01:36] [MySQL] Sucesso ao conectar com o banco de dados.
+[19:01:36] 
+-------gamemode by: impostorr--------
+
+[19:01:36] Number of vehicle models: 0
+[19:01:44] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[19:01:44] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[19:05:11] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:05:23] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:05:23] [MySQL] Sucesso ao conectar com o banco de dados.
+[19:05:23] 
+-------gamemode by: impostorr--------
+
+[19:05:23] Number of vehicle models: 0
+[19:05:31] [connection] incoming connection: 25.1.36.254:64360 id: 0
+[19:05:31] [join] Post_Malone has joined the server (0:25.1.36.254)
+[19:06:24] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[19:06:24] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[19:06:33] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:06:43] [connection] incoming connection: 25.1.36.254:58057 id: 0
+[19:06:44] [join] Post_Malone has joined the server (0:25.1.36.254)
+[19:06:45] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:06:45] [MySQL] Sucesso ao conectar com o banco de dados.
+[19:06:45] 
+-------gamemode by: impostorr--------
+
+[19:06:45] Number of vehicle models: 0
+[19:06:59] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[19:06:59] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[19:07:27] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:07:39] [connection] incoming connection: 25.1.36.254:49869 id: 0
+[19:07:39] [join] Post_Malone has joined the server (0:25.1.36.254)
+[19:07:39] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:07:39] [MySQL] Sucesso ao conectar com o banco de dados.
+[19:07:39] 
+-------gamemode by: impostorr--------
+
+[19:07:39] Number of vehicle models: 0
+[19:11:20] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[19:11:20] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[19:41:51] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:42:03] [connection] incoming connection: 25.1.36.254:51993 id: 0
+[19:42:03] [join] Post_Malone has joined the server (0:25.1.36.254)
+[19:42:03] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:42:03] [MySQL] Sucesso ao conectar com o banco de dados.
+[19:42:03] 
+-------gamemode by: impostorr--------
+
+[19:42:03] Number of vehicle models: 0
+Console input: gmx
+[19:43:42] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[19:43:42] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:43:54] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:43:54] [MySQL] Sucesso ao conectar com o banco de dados.
+[19:43:54] 
+-------gamemode by: impostorr--------
+
+[19:43:54] Number of vehicle models: 0
+Console input: gmx
+[19:48:48] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[19:48:48] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:49:00] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:49:00] [MySQL] Sucesso ao conectar com o banco de dados.
+[19:49:00] 
+-------gamemode by: impostorr--------
+
+[19:49:00] Number of vehicle models: 0
+[19:49:40] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[19:49:40] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[19:50:53] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:51:05] [connection] incoming connection: 25.1.36.254:57054 id: 0
+[19:51:05] [join] Post_Malone has joined the server (0:25.1.36.254)
+[19:51:05] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:51:05] [MySQL] Sucesso ao conectar com o banco de dados.
+[19:51:05] 
+-------gamemode by: impostorr--------
+
+[19:51:05] Number of vehicle models: 0
+[19:51:28] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[19:51:28] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[19:52:55] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:53:06] [connection] incoming connection: 25.1.36.254:64001 id: 0
+[19:53:06] [join] Post_Malone has joined the server (0:25.1.36.254)
+[19:53:07] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:53:07] [MySQL] Sucesso ao conectar com o banco de dados.
+[19:53:07] 
+-------gamemode by: impostorr--------
+
+[19:53:07] Number of vehicle models: 0
+Console input: gmx
+[19:54:29] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[19:54:29] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:54:41] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:54:41] [MySQL] Sucesso ao conectar com o banco de dados.
+[19:54:41] 
+-------gamemode by: impostorr--------
+
+[19:54:41] Number of vehicle models: 0
+Console input: gmx
+[19:55:32] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[19:55:32] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:55:44] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:55:44] [MySQL] Sucesso ao conectar com o banco de dados.
+[19:55:44] 
+-------gamemode by: impostorr--------
+
+[19:55:44] Number of vehicle models: 0
+Console input: gmx
+[19:57:37] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[19:57:37] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:57:49] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[19:57:49] [MySQL] Sucesso ao conectar com o banco de dados.
+[19:57:49] 
+-------gamemode by: impostorr--------
+
+[19:57:49] Number of vehicle models: 0
+Console input: gmx
+[20:00:43] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:00:43] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:00:55] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:00:55] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:00:55] 
+-------gamemode by: impostorr--------
+
+[20:00:55] Number of vehicle models: 0
+Console input: gmx
+[20:03:06] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:03:06] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:03:18] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:03:18] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:03:18] 
+-------gamemode by: impostorr--------
+
+[20:03:18] Number of vehicle models: 0
+[20:03:26] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:03:26] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[20:05:04] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:05:15] [connection] incoming connection: 25.1.36.254:58413 id: 0
+[20:05:15] [join] Post_Malone has joined the server (0:25.1.36.254)
+[20:05:16] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:05:16] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:05:16] 
+-------gamemode by: impostorr--------
+
+[20:05:16] Number of vehicle models: 0
+[20:05:30] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:05:30] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[20:05:55] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:06:06] [connection] incoming connection: 25.1.36.254:65060 id: 0
+[20:06:06] [join] Post_Malone has joined the server (0:25.1.36.254)
+[20:06:07] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:06:07] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:06:07] 
+-------gamemode by: impostorr--------
+
+[20:06:07] Number of vehicle models: 0
+[20:06:34] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:06:34] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[20:07:01] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:07:13] [connection] incoming connection: 25.1.36.254:56044 id: 0
+[20:07:13] [join] Post_Malone has joined the server (0:25.1.36.254)
+[20:07:13] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:07:13] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:07:13] 
+-------gamemode by: impostorr--------
+
+[20:07:13] Number of vehicle models: 0
+[20:07:55] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:07:55] [part] Post_Malone has left the server (0:1)
+Console input: GMX
+[20:10:15] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:10:26] [connection] incoming connection: 25.1.36.254:59281 id: 0
+[20:10:26] [join] Post_Malone has joined the server (0:25.1.36.254)
+[20:10:27] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:10:27] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:10:27] 
+-------gamemode by: impostorr--------
+
+[20:10:27] Number of vehicle models: 0
+[20:10:52] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:10:52] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[20:12:10] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:12:21] [connection] incoming connection: 25.1.36.254:63240 id: 0
+[20:12:21] [join] Post_Malone has joined the server (0:25.1.36.254)
+[20:12:22] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:12:22] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:12:22] 
+-------gamemode by: impostorr--------
+
+[20:12:22] Number of vehicle models: 0
+[20:12:42] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:12:42] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[20:14:23] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:14:33] [connection] incoming connection: 25.1.36.254:61830 id: 0
+[20:14:33] [join] Post_Malone has joined the server (0:25.1.36.254)
+[20:14:35] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:14:35] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:14:35] 
+-------gamemode by: impostorr--------
+
+[20:14:35] Number of vehicle models: 0
+[20:16:00] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:16:00] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[20:17:58] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:18:09] [connection] incoming connection: 25.1.36.254:64958 id: 0
+[20:18:09] [join] Post_Malone has joined the server (0:25.1.36.254)
+[20:18:10] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:18:10] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:18:10] 
+-------gamemode by: impostorr--------
+
+[20:18:10] Number of vehicle models: 0
+[20:19:23] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:19:23] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[20:23:12] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:23:23] [connection] incoming connection: 25.1.36.254:55872 id: 0
+[20:23:23] [join] Post_Malone has joined the server (0:25.1.36.254)
+[20:23:24] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:23:24] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:23:24] 
+-------gamemode by: impostorr--------
+
+[20:23:24] Number of vehicle models: 0
+[20:24:19] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:24:19] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[20:25:07] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:25:19] [connection] incoming connection: 25.1.36.254:51926 id: 0
+[20:25:19] [join] Post_Malone has joined the server (0:25.1.36.254)
+[20:25:19] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:25:19] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:25:19] 
+-------gamemode by: impostorr--------
+
+[20:25:19] Number of vehicle models: 0
+[20:27:09] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:27:09] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[20:28:01] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:28:14] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:28:14] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:28:14] 
+-------gamemode by: impostorr--------
+
+[20:28:14] Number of vehicle models: 0
+[20:28:15] [connection] incoming connection: 25.1.36.254:57109 id: 0
+[20:28:15] [join] Post_Malone has joined the server (0:25.1.36.254)
+Console input: gmx
+[20:47:14] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:47:14] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:47:26] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:47:26] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:47:26] 
+-------gamemode by: impostorr--------
+
+[20:47:26] Number of vehicle models: 0
+Console input: gmx
+[20:48:15] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:48:15] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:48:27] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:48:27] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:48:27] 
+-------gamemode by: impostorr--------
+
+[20:48:27] Number of vehicle models: 0
+[20:48:46] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:48:46] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[20:48:51] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:49:03] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:49:03] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:49:03] 
+-------gamemode by: impostorr--------
+
+[20:49:03] Number of vehicle models: 0
+Console input: gmx
+[20:51:11] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:51:23] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:51:23] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:51:23] 
+-------gamemode by: impostorr--------
+
+[20:51:23] Number of vehicle models: 0
+[20:51:24] [connection] incoming connection: 25.1.36.254:56382 id: 0
+[20:51:24] [join] Post_Malone has joined the server (0:25.1.36.254)
+[20:52:26] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:52:26] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[20:53:41] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:53:53] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[20:53:53] [MySQL] Sucesso ao conectar com o banco de dados.
+[20:53:53] 
+-------gamemode by: impostorr--------
+
+[20:53:53] Number of vehicle models: 0
+[20:53:55] [connection] incoming connection: 25.1.36.254:59019 id: 0
+[20:53:55] [join] Post_Malone has joined the server (0:25.1.36.254)
+[20:56:25] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[20:56:25] [part] Post_Malone has left the server (0:1)
+Console input: gmx
+[21:01:27] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[21:01:39] [connection] incoming connection: 25.1.36.254:61881 id: 0
+[21:01:39] [join] Post_Malone has joined the server (0:25.1.36.254)
+[21:01:39] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[21:01:39] [MySQL] Sucesso ao conectar com o banco de dados.
+[21:01:39] 
+-------gamemode by: impostorr--------
+
+[21:01:39] Number of vehicle models: 0
+[21:02:33] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[21:02:33] [part] Post_Malone has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[21:05:35] filterscripts = ""  (string)
+[21:05:35] 
+[21:05:35] Server Plugins
+[21:05:35] --------------
+[21:05:35]  Loading plugin: mysql
+[21:05:36]  >> plugin.mysql: R41-4 successfully loaded.
+[21:05:36]   Loaded.
+[21:05:36]  Loading plugin: sscanf
+[21:05:36] 
+
+[21:05:36]  ===============================
+
+[21:05:36]       sscanf plugin loaded.     
+
+[21:05:36]          Version:  2.8.3        
+
+[21:05:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:05:36]  ===============================
+
+[21:05:36]   Loaded.
+[21:05:36]  Loading plugin: streamer
+[21:05:36] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:05:36]   Loaded.
+[21:05:36]  Loaded 3 plugins.
+
+[21:05:36] [artwork:crc] object.dff CRC = 0xDCFCC14C
+[21:05:36] [artwork:crc] logo.txd CRC = 0x22148262
+[21:05:36] [artwork:crc] object.dff CRC = 0xDCFCC14C
+[21:05:36] [artwork:crc] fuel.txd CRC = 0xF72CC4EE
+[21:05:36] 
+[21:05:36] Filterscripts
+[21:05:36] ---------------
+[21:05:36]   Loaded 0 filterscripts.
+
+[21:05:36] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[21:05:36] [MySQL] Sucesso ao conectar com o banco de dados.
+[21:05:36] 
+-------gamemode by: impostorr--------
+
+[21:05:36] Number of vehicle models: 0
+[21:05:46] [connection] incoming connection: 25.1.36.254:57218 id: 0
+[21:05:46] [join] Post_Malone has joined the server (0:25.1.36.254)
+Console input: gmx
+[21:05:56] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[21:06:08] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[21:06:08] [MySQL] Sucesso ao conectar com o banco de dados.
+[21:06:08] 
+-------gamemode by: impostorr--------
+
+[21:06:08] Number of vehicle models: 0
+[21:06:14] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[21:06:14] [part] Post_Malone has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[21:06:25] filterscripts = ""  (string)
+[21:06:25] 
+[21:06:25] Server Plugins
+[21:06:25] --------------
+[21:06:25]  Loading plugin: mysql
+[21:06:25]  >> plugin.mysql: R41-4 successfully loaded.
+[21:06:25]   Loaded.
+[21:06:25]  Loading plugin: sscanf
+[21:06:25] 
+
+[21:06:25]  ===============================
+
+[21:06:25]       sscanf plugin loaded.     
+
+[21:06:25]          Version:  2.8.3        
+
+[21:06:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:06:25]  ===============================
+
+[21:06:25]   Loaded.
+[21:06:25]  Loading plugin: streamer
+[21:06:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:06:25]   Loaded.
+[21:06:25]  Loaded 3 plugins.
+
+[21:06:25] [artwork:crc] object.dff CRC = 0xDCFCC14C
+[21:06:25] [artwork:crc] logo.txd CRC = 0x22148262
+[21:06:25] [artwork:crc] object.dff CRC = 0xDCFCC14C
+[21:06:25] [artwork:crc] fuel.txd CRC = 0xF72CC4EE
+[21:06:25] 
+[21:06:25] Filterscripts
+[21:06:25] ---------------
+[21:06:25]   Loaded 0 filterscripts.
+
+[21:06:25] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[21:06:25] [MySQL] Sucesso ao conectar com o banco de dados.
+[21:06:25] 
+-------gamemode by: impostorr--------
+
+[21:06:25] Number of vehicle models: 0
+[21:06:39] [connection] incoming connection: 25.1.36.254:52016 id: 0
+[21:06:39] [join] Post_Malone has joined the server (0:25.1.36.254)
+Console input: gmx
+[21:11:42] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[21:11:42] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[21:11:54] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[21:11:54] [MySQL] Sucesso ao conectar com o banco de dados.
+[21:11:54] 
+-------gamemode by: impostorr--------
+
+[21:11:54] Number of vehicle models: 0
+Console input: gmx
+[21:34:47] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[21:34:47] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[21:34:59] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[21:34:59] [MySQL] Sucesso ao conectar com o banco de dados.
+[21:34:59] 
+-------gamemode by: impostorr--------
+
+[21:34:59] Number of vehicle models: 0
+Console input: gmx
+[21:55:02] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[21:55:02] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[21:55:14] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[21:55:14] [MySQL] Sucesso ao conectar com o banco de dados.
+[21:55:14] 
+-------gamemode by: impostorr--------
+
+[21:55:14] Number of vehicle models: 0
+Console input: gmx
+[22:46:55] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[22:46:55] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[22:47:07] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[22:47:07] [MySQL] Sucesso ao conectar com o banco de dados.
+[22:47:07] 
+-------gamemode by: impostorr--------
+
+[22:47:07] Number of vehicle models: 0
+Console input: gmx
+[23:13:19] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[23:13:19] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[23:13:31] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[23:13:31] [MySQL] Sucesso ao conectar com o banco de dados.
+[23:13:31] 
+-------gamemode by: impostorr--------
+
+[23:13:31] Number of vehicle models: 0
+Console input: gmx
+[23:18:27] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[23:18:27] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[23:18:39] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[23:18:39] [MySQL] Sucesso ao conectar com o banco de dados.
+[23:18:39] 
+-------gamemode by: impostorr--------
+
+[23:18:39] Number of vehicle models: 0
+Console input: gmx
+[23:21:16] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[23:21:16] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[23:21:28] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[23:21:28] [MySQL] Sucesso ao conectar com o banco de dados.
+[23:21:28] 
+-------gamemode by: impostorr--------
+
+[23:21:28] Number of vehicle models: 0
+Console input: gmx
+[00:17:08] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[00:17:08] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[00:17:20] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[00:17:20] [MySQL] Sucesso ao conectar com o banco de dados.
+[00:17:20] 
+-------gamemode by: impostorr--------
+
+[00:17:20] Number of vehicle models: 0
+Console input: gmx
+[00:40:35] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[00:40:35] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[00:40:47] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[00:40:47] [MySQL] Sucesso ao conectar com o banco de dados.
+[00:40:47] 
+-------gamemode by: impostorr--------
+
+[00:40:47] Number of vehicle models: 0
+[01:50:02] [MYSQL] Dados do Jogador Post_Malone ID 95 salvo com sucesso
+[01:50:02] [part] Post_Malone has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[02:53:47] filterscripts = ""  (string)
+[02:53:47] 
+[02:53:47] Server Plugins
+[02:53:47] --------------
+[02:53:47]  Loading plugin: mysql
+[02:53:47]  >> plugin.mysql: R41-4 successfully loaded.
+[02:53:47]   Loaded.
+[02:53:47]  Loading plugin: sscanf
+[02:53:47] 
+
+[02:53:47]  ===============================
+
+[02:53:47]       sscanf plugin loaded.     
+
+[02:53:47]          Version:  2.8.3        
+
+[02:53:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:53:47]  ===============================
+
+[02:53:47]   Loaded.
+[02:53:47]  Loading plugin: streamer
+[02:53:47] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:53:47]   Loaded.
+[02:53:47]  Loaded 3 plugins.
+
+[02:53:47] [artwork:crc] object.dff CRC = 0xDCFCC14C
+[02:53:47] [artwork:crc] logo.txd CRC = 0x22148262
+[02:53:47] [artwork:crc] object.dff CRC = 0xDCFCC14C
+[02:53:47] [artwork:crc] fuel.txd CRC = 0xF72CC4EE
+[02:53:47] 
+[02:53:47] Filterscripts
+[02:53:47] ---------------
+[02:53:47]   Loaded 0 filterscripts.
+
+[02:53:47] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[02:53:47] [MySQL] Sucesso ao conectar com o banco de dados.
+[02:53:47] 
+-------gamemode by: impostorr--------
+
+[02:53:47] Number of vehicle models: 0
+[02:54:00] [connection] incoming connection: 25.1.36.254:63420 id: 0
+[02:54:00] [join] Post_Malone has joined the server (0:25.1.36.254)

@@ -6,10 +6,11 @@
 #include <a_mysql>
 #include <streamer>
 #include <EVF>
+#include <foreach>
 
 //MODULOS
 
-#include "modulos/player.pwn"
+#include "modulos/global.pwn"
 #include "modulos/functions.pwn"
 #include "modulos/personagem.pwn"
 #include "modulos/register.pwn"
@@ -29,6 +30,7 @@ public OnGameModeInit()
 	EnableStuntBonusForAll(false);
 	LimitGlobalChatRadius(15.0);
 	SetNameTagDrawDistance(0);
+	ManualVehicleEngineAndLights();
 	return 1;
 }
 
@@ -56,7 +58,8 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 
 public OnPlayerExitVehicle(playerid, vehicleid)
 {
-	DestroyVehicle(tempcar);
+	//DestroyVehicle(tempcar);
+	speed_OnPlayerExitVehicle(playerid, vehicleid);
 	return 1;
 }
 
@@ -80,13 +83,21 @@ public OnPlayerText(playerid, text[])
     return 0;
 }
 
-public OnPlayerEnterVehicle(playerid, vehicleid, ispassenger)
-{
-	return 1;
-}
-
 public OnPlayerStateChange(playerid, newstate, oldstate)
 {
 	speed_OnPlayerStateChange(playerid, newstate, oldstate);
+	return 1;
+}
+
+public OnPlayerEnterVehicle(playerid, vehicleid, ispassenger)
+{
+	speed_OnPlayerEnterVehicle(playerid, vehicleid, ispassenger);
+	return 1;
+}
+
+public OnVehicleCreated(vehicleid)
+{
+	motor[vehicleid] = false;
+	SetVehicleFuel(vehicleid, 100); //MUDAR NO FUTURO
 	return 1;
 }

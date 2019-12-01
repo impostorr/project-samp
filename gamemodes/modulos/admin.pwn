@@ -37,3 +37,46 @@ CMD:cv(playerid, params[])
 	else return SendClientMessage(playerid, -1, "ERRO: Você não tem permissão para usar esse comando.");
 	return 1;
 }
+
+CMD:setfuel(playerid, params[])
+{
+	new carID, number;
+	new str[120];
+	if(Player[playerid][pAdmin] != 0)
+	{
+		if(sscanf(params, "dd", carID, number))
+		{
+			SendClientMessage(playerid, -1, "Use: /setfuel [carID] [quantidade]");
+		}
+		else
+		{
+			SetVehicleFuel(carID, number);
+			format(str, sizeof(str), "SERVER: Você setou %d de gasolina no veiculo com id %d", number, carID);
+			SendClientMessage(playerid, -1, str);
+		}
+	}
+	else return SendClientMessage(playerid, -1, "ERRO: Você não tem permissão para usar esse comando.");
+	return 1;
+}
+
+CMD:destroycar(playerid, params[])
+{
+	new carID;
+	new str[120];
+
+	if(Player[playerid][pAdmin] != 0)
+	{
+		if(sscanf(params, "d", carID))
+		{
+			SendClientMessage(playerid, -1, "Use: /destroycar [carID] ");
+		}
+		else
+		{
+			DestroyVehicle(carID);
+			format(str, sizeof(str), "SERVER: Você removeu o carro de id %d do mapa.", carID);
+			SendClientMessage(playerid, -1, str);
+		}
+	}
+	else return SendClientMessage(playerid, -1, "ERRO: Você não tem permissão para usar esse comando.");
+	return 1;
+}

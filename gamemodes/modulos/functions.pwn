@@ -1,4 +1,11 @@
 
+#define COLOR_PURPLE	0xC2A2DAAA
+
+
+
+
+//-------------------------------------------------------
+
 stock IsLetter(letter[])
 {
     for(new i, j = strlen(letter); i < j; i++)
@@ -56,6 +63,7 @@ stock ShowPlayerVelocimetro(playerid)
 
 	PlayerVelocimetro[playerid] = true;
 	PlayerTextDrawShow(playerid, speed_0[playerid]);
+	PlayerTextDrawShow(playerid, fuel_0[playerid]);
     PlayerVelocimetroTimer[playerid] = SetTimerEx("UpdatePlayerVelocimetro", 50, true, "i", playerid);
 	return 1;
 }
@@ -68,7 +76,20 @@ stock HidePlayerVelocimetro(playerid)
 
 	PlayerVelocimetro[playerid] = false;
 	PlayerTextDrawHide(playerid, speed_0[playerid]);
+	PlayerTextDrawHide(playerid, fuel_0[playerid]);
     KillTimer(PlayerVelocimetroTimer[playerid]);
 	return 1;
 }
 
+stock ProxDetector(Float:radi, playerid, string[],color)
+{
+    new Float:x,Float:y,Float:z;
+    GetPlayerPos(playerid,x,y,z);
+    foreach(Player,i)
+    {
+        if(IsPlayerInRangeOfPoint(i,radi,x,y,z))
+        {
+            SendClientMessage(i,color,string);
+        }
+    }
+}

@@ -49,3 +49,7 @@
 [01:59:12] [INFO] received Windows console close event; shutting log-core down
 [14:26:48] [ERROR] exception 0XC0000005 (ACCESS_VIOLATION) from Vectored Exception Handler catched; shutting log-core down
 [14:39:05] [INFO] received Windows console close event; shutting log-core down
+[16:43:30] [INFO] received Windows console close event; shutting log-core down
+[21:06:18] [INFO] received Windows console close event; shutting log-core down
+[21:06:24] [INFO] received Windows console close event; shutting log-core down
+[01:50:04] [INFO] received Windows console close event; shutting log-core down
